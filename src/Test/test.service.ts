@@ -10,7 +10,7 @@ export class TestService {
         return 'Test New World!';
     }
 
-    postTest(data){ 
+    postTest(data){
         return data;
     }
   }
